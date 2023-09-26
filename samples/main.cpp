@@ -15,7 +15,7 @@ using namespace std;
 
 
 int main() {
-	string str = "( - 13) / 20";
+	string str = "15 - 13) / 20";
 	cout << str << endl;
 	LexicalAnalysis lex;
 	SyntacticAnalysis sin;
